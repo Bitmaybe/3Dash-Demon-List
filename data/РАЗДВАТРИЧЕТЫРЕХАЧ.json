@@ -8,7 +8,13 @@
     "verification": "",
     "percentToQualify": 40,
     "password": "64",
-    "records": [
+    "records": [        
+        {
+        "user": "[RUS] bitmaaa",
+        "link": "https://youtu.be/X8JQiPzmjO0",
+        "percent": 100,
+        "hz": 360
+        }
        
     ]
 }
